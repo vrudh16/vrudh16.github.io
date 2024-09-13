@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-About this site
+Experienced Data Scientist with 3 years of hands-on experience in developing and implementing data-driven solutions to address intricate challenges. Proficient in data visualization, data mining, machine learning, predictive modeling, and understanding marketing challenges and their linkage with data. Possess exceptional problem-solving and communication skills
